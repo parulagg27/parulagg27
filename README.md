@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Parul! 👋
+
+- 🦅 I'm a backend developer based out of India.
+- 🌱 I’m currently working on Kotlin, Springboot, and React.
+- 📖 I'm brushing my DSA skills these days.
+- 👯 I’m looking to collaborate on Java/Kotlin Open-Source projects.
+- 💬 Ask me about Java, Kotlin, SpringBoot, Docker, and Microservices.
+- 😄 Pronouns: She/Her
 
 <!--
 **parulagg27/parulagg27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
