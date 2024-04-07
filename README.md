@@ -7,7 +7,11 @@
 - 💬 Ask me about Java, Kotlin, SpringBoot, Docker, and Microservices.
 - 😄 Pronouns: She/Her
 
-## Connect with me:
+## 📈 Github Stats:
+![summary](https://github-readme-stats.vercel.app/api?username=parulagg27&include_all_commits=true&show_icons=true&theme=dracula&count_private=true&hide=contribs)
+
+
+## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/parulagg27/) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/parulagg27) [![Medium](https://img.shields.io/badge/Medium-Follow-%2312100E?logo=medium&style=for-the-badge)](https://medium.com/@parulagg27)
 
 <!--
