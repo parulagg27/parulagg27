@@ -1,4 +1,4 @@
-### Hi there, I am Parul! 👋
+## Hi there, I am Parul! 👋
 
 - 🦅 I'm a backend developer based out of India.
 - 🌱 I’m currently working on Kotlin, Springboot, and React.
