@@ -1,7 +1,8 @@
 ## Hi there, I am Parul! 👋
 
 - 🦅 I'm a backend developer based out of India.
-- 🌱 I’m currently working on Kotlin, Springboot, and React.
+- 🔍 Domains worked on so far: E-commerce, fintech [NBFCs, Loan-lending by Banks]
+- 🌱 My current tech stack: Kotlin, Springboot, Docker, and React.
 - 📖 I'm learning DSA and system design these days.
 - 👯 I’m looking to collaborate on Java/Kotlin Open-Source projects.
 - 💬 Ask me about Java, Kotlin, SpringBoot, Docker, and Microservices.
